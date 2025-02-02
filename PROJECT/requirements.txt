@@ -1,0 +1,17 @@
+# Flask for API
+Flask==3.0.0
+
+# Streamlit for Dashboard
+streamlit==1.31.0
+
+# Transformers for NLP
+transformers==4.37.2
+
+# Scikit-learn for Machine Learning
+scikit-learn==1.4.0
+
+# PyTorch for Deep Learning
+torch==2.2.0
+
+# NumPy for Numerical Operations
+numpy==1.26.3
